@@ -3,4 +3,4 @@
 
 > probably watching jojo s5
 
-NOTE: Privated for OPSEC reasons
+> NOTE: Privated for OPSEC reasons
