@@ -3,4 +3,8 @@
 
 > probably watching jojo s5
 
-- NOTE: Privated for OPSEC reasons
+In Progress:
+
+- Courvix AIO
+- Synapse v3
+- AimAssist v2.2
