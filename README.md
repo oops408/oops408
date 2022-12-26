@@ -5,6 +5,6 @@
 
 In Progress:
 
-- Courvix AIO
-- Synapse v3
-- AimAssist v2.2
+- CVX 2.2
+- Synapse 3
+- SGen
