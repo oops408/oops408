@@ -1,13 +1,24 @@
-    hello im
-    
+<p align="center"><img src="https://media1.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/sp"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/oops408" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=oops408&style=flat-square&color=blue" alt=""></p>
 
-> probably watching jojo s5
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-In Progress:
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-- CVX 2.2
-- Synapse 3
-- SGen
+### :technologist: &nbsp;About Me :
+
+i like to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- cvx 
+- synapse
+- aio
+- verilog
 
 ---
 
