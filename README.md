@@ -53,3 +53,10 @@ i like to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 ---
 
 <a href=#><img src="github-user-contribution.svg"></a>
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
