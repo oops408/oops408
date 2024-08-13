@@ -8,7 +8,8 @@
 
 ---
 
-### 🛠 &nbsp;Working With:
+### 🛠 &nbsp;Working With <p align="center"><img src="https://media4.giphy.com/media/l2R0aHVU6cXuaC1PO/giphy.gif" width="600" height="300"  /></p>
+:
 
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
