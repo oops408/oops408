@@ -2,7 +2,7 @@
 
 <h1 align="center">hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media4.giphy.com/media/l2R0aHVU6cXuaC1PO/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJ5YjM5aHRscGFteDU2dGNtODFyd3FpamhjOWEzbnY2dHg1cmh1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NNjv3627egRG/giphy.webp" width="900" height="450"  /></p>
 
 ---
 
