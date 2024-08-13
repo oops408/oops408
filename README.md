@@ -2,14 +2,7 @@
 
 <p align="center"><img src="https://media4.giphy.com/media/l2R0aHVU6cXuaC1PO/giphy.gif" width="600" height="300"  /></p>
 
-### :technologist: &nbsp;About Me :
-
-i like to code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- cvx 
-- synapse
-- aio
-- verilog
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ---
 
