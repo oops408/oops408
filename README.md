@@ -183,31 +183,60 @@ Image / Video → OpenCV → ResNet Features → KNN → Location Prediction →
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oops408&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops408&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=oops408&theme=tokyonight&hide_border=true"
+    alt="Suparn's GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oops408&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=oops408&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="Suparn's GitHub contribution graph"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oops408&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oops408&theme=tokyonight"
+    width="100%"
+    alt="Suparn's GitHub profile summary"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oops408&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oops408&theme=tokyonight"
+    width="49%"
+    alt="Repositories by language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oops408&theme=tokyonight"
+    width="49%"
+    alt="Most committed languages"
+  />
 </p>
 
 ---
 
 ## 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oops408/oops408/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
-
-> The included GitHub Actions workflow generates this SVG automatically on the `output` branch.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/oops408/oops408/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/oops408/oops408/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/oops408/oops408/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Animated GitHub contribution snake"
+  />
+</picture>
 
 ---
 
