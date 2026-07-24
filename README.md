@@ -84,7 +84,9 @@ Short description explaining:
 
 ## 📊 GitHub Stats
 
-![Suparn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oops408&show_icons=true)
+![Suparn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oops408&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oops408&layout=compact&theme=transparent)
 
 ---
 
