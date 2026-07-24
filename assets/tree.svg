@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#020617"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="branch" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  <filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1100" height="700" rx="24" fill="url(#bg)"/>
+<g stroke="url(#branch)" stroke-width="8" fill="none" stroke-linecap="round" filter="url(#g)">
+ <path d="M550 630V350"/>
+ <path d="M550 440C470 390 390 320 300 230"/>
+ <path d="M550 440C630 390 710 320 800 230"/>
+ <path d="M550 380C500 310 470 230 455 135"/>
+ <path d="M550 380C600 310 630 230 645 135"/>
+</g>
+<g fill="#e2e8f0" font-family="Arial" text-anchor="middle">
+ <g><circle cx="300" cy="230" r="62" fill="#0f172a" stroke="#38bdf8"/><text x="300" y="223" font-size="22" font-weight="700">SKILLS</text><text x="300" y="249" font-size="14" fill="#94a3b8">languages • tools</text></g>
+ <g><circle cx="800" cy="230" r="62" fill="#0f172a" stroke="#8b5cf6"/><text x="800" y="223" font-size="22" font-weight="700">PROJECTS</text><text x="800" y="249" font-size="14" fill="#94a3b8">impact • systems</text></g>
+ <g><circle cx="455" cy="135" r="58" fill="#0f172a" stroke="#38bdf8"/><text x="455" y="129" font-size="20" font-weight="700">EDUCATION</text><text x="455" y="153" font-size="13" fill="#94a3b8">roots</text></g>
+ <g><circle cx="645" cy="135" r="58" fill="#0f172a" stroke="#8b5cf6"/><text x="645" y="129" font-size="20" font-weight="700">EXPERIENCE</text><text x="645" y="153" font-size="13" fill="#94a3b8">trunk</text></g>
+ <text x="550" y="520" font-size="28" font-weight="700">SUPARN POSINA</text>
+ <text x="550" y="552" font-size="15" fill="#94a3b8">software engineering • machine learning • data systems</text>
+</g>
+<g fill="#22c55e" opacity=".8">
+ <ellipse cx="265" cy="190" rx="12" ry="6" transform="rotate(-25 265 190)"/><ellipse cx="340" cy="260" rx="12" ry="6" transform="rotate(25 340 260)"/>
+ <ellipse cx="760" cy="260" rx="12" ry="6" transform="rotate(-25 760 260)"/><ellipse cx="835" cy="190" rx="12" ry="6" transform="rotate(25 835 190)"/>
+</g>
+</svg>

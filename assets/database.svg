@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500">
+<rect width="1100" height="500" rx="24" fill="#020617"/>
+<text x="550" y="50" text-anchor="middle" fill="#f8fafc" font-family="Arial" font-size="30" font-weight="700">DATABASE DESIGN TREE</text>
+<g stroke="#38bdf8" stroke-width="3" fill="none">
+ <path d="M550 105V160M550 160H250M550 160H850M250 160V220M850 160V220"/>
+ <path d="M250 300V350M250 350H125M250 350H375M850 300V350M850 350H725M850 350H975"/>
+</g>
+<g font-family="Arial" text-anchor="middle">
+ <g><rect x="440" y="70" width="220" height="55" rx="14" fill="#172554" stroke="#60a5fa"/><text x="550" y="104" fill="white" font-size="22" font-weight="700">DATA LAYER</text></g>
+ <g><rect x="145" y="220" width="210" height="80" rx="14" fill="#0f172a" stroke="#38bdf8"/><text x="250" y="253" fill="white" font-size="22" font-weight="700">RELATIONAL</text><text x="250" y="278" fill="#94a3b8" font-size="15">PostgreSQL • SQL</text></g>
+ <g><rect x="745" y="220" width="210" height="80" rx="14" fill="#0f172a" stroke="#8b5cf6"/><text x="850" y="253" fill="white" font-size="22" font-weight="700">NoSQL</text><text x="850" y="278" fill="#94a3b8" font-size="15">MongoDB • Firebase</text></g>
+ <g><rect x="45" y="350" width="160" height="90" rx="14" fill="#111827"/><text x="125" y="385" fill="white" font-size="18">Modeling</text><text x="125" y="410" fill="#94a3b8" font-size="14">ERD • Normalization</text></g>
+ <g><rect x="295" y="350" width="160" height="90" rx="14" fill="#111827"/><text x="375" y="385" fill="white" font-size="18">Performance</text><text x="375" y="410" fill="#94a3b8" font-size="14">Indexes • Queries</text></g>
+ <g><rect x="645" y="350" width="160" height="90" rx="14" fill="#111827"/><text x="725" y="385" fill="white" font-size="18">Documents</text><text x="725" y="410" fill="#94a3b8" font-size="14">JSON • Flexible schema</text></g>
+ <g><rect x="895" y="350" width="160" height="90" rx="14" fill="#111827"/><text x="975" y="385" fill="white" font-size="18">Realtime</text><text x="975" y="410" fill="#94a3b8" font-size="14">Auth • Sync</text></g>
+</g>
+</svg>
