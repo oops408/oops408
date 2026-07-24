@@ -158,7 +158,7 @@ Image / Video → OpenCV → ResNet Features → KNN → Location Prediction →
 **Mountain View, California · September 2024 – June 2025**
 
 - Taught mathematics from foundational topics through Calculus while supporting multiple students concurrently.
-- Earned **Tutor of the Month** recognition for communication, reliability, teamwork, and student support.
+- Earned recognition for communication, reliability, teamwork, and student support.
 
 ---
 
