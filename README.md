@@ -1,120 +1,101 @@
-Hi, I'm Suparn Posina 👋
+# Hi, I'm Suparn Posina 👋
 
-Computer Science student at San José State University with a 4.0 GPA, focused on software engineering, backend systems, AI/ML, and computer vision.
+Computer Science student at **San José State University** focused on building reliable software, backend systems, and AI-powered applications.
 
-🎯 Seeking Summer 2027 software engineering internship opportunities.
+Currently seeking **Software Engineering Internship opportunities for Summer 2027.**
 
-💼 Sales Engineering Intern at Infoglen
+Interested in:
+- Backend Engineering
+- Artificial Intelligence & Machine Learning
+- Computer Vision
+- Distributed Systems
+- Scalable Software Development
 
-🎓 B.S. Computer Science, expected May 2027
+---
 
-📍 San Jose, California
+## 👨‍💻 About Me
 
-🌐 Portfolio: suparnp.com
+🎓 B.S. Computer Science @ San José State University
 
-💼 LinkedIn: linkedin.com/in/suparnp
+💡 I enjoy designing software that combines strong engineering fundamentals with emerging technologies.
 
-Featured Projects
+🔭 Currently building projects involving:
+- Backend APIs
+- Machine Learning applications
+- Data-driven systems
+- Full-stack development
 
-Investment Property Analyzer
+🌱 Continuously improving my skills in:
+- System design
+- Algorithms & data structures
+- Cloud technologies
+- AI/ML engineering
 
-React • Node.js • PostgreSQL • REST APIs
+---
 
-Full-stack application for evaluating investment properties using financial metrics, database-backed comparisons, and automated recommendations.
+## 🛠️ Technical Skills
 
-Engineering focus: Backend API design, database modeling, property-ranking logic, and maintainable full-stack architecture.
+### Languages
+Java • Python • TypeScript • JavaScript • SQL • C++
 
-Repository is currently private. Technical overview and demonstration are available upon request.
+### Backend & Software Engineering
+- REST APIs
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Design
+- Software Development Practices
 
-AI Video Scheduler
+### AI / Machine Learning
+- Machine Learning Fundamentals
+- Computer Vision
+- Neural Networks
+- Data Processing
 
-TypeScript • Node.js • Express • PostgreSQL • Docker
+### Tools & Technologies
+Git • GitHub • Linux • Docker • VS Code • PostgreSQL • React • Node.js
 
-Backend-focused application for managing video metadata, scheduling workflows, uploads, user data, and external API integrations.
+---
 
-Engineering focus: Modular REST services, authentication workflows, persistent data, failure handling, and containerized development.
+## 🚀 Featured Projects
 
-Repository is currently private. Technical overview and demonstration are available upon request.
+### 🔹 Project Name
+Short description explaining:
+- what you built
+- technologies used
+- engineering problem solved
 
-Computer Vision Location Prediction
+### 🔹 Project Name
+Short description explaining:
+- functionality
+- architecture
+- impact
 
-Python • TensorFlow • OpenCV • ResNet • KNN
+---
 
-Machine-learning project exploring geographic location prediction from image and video inputs.
+## 📚 Currently Learning
 
-Engineering focus: Image preprocessing, deep-feature extraction, model evaluation, prediction pipelines, and geographic visualization.
+- Advanced Backend Architecture
+- Cloud Computing
+- Machine Learning Engineering
+- System Design
+- Large-Scale Software Development
 
-Repository is currently private. Technical overview and demonstration are available upon request.
+---
 
-Grocery Store Management System
+## 📊 GitHub Stats
 
-Java • Maven • JUnit • Object-Oriented Design
+![Suparn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oops408&show_icons=true)
 
-Team-built Java application with authentication, customer and employee workflows, inventory management, checkout, exception handling, and automated testing.
+---
 
-View repository
+## 🤝 Connect With Me
 
-Experience
+LinkedIn:
+https://www.linkedin.com/in/suparnp/
 
-Sales Engineering Intern — Infoglen
+GitHub:
+https://github.com/oops408
 
-August 2025–Present
+---
 
-Prototyping AI-assisted churn-risk and sentiment-analysis workflows
-
-Connecting technical ideas with customer-lifecycle and business requirements
-
-Collaborating with engineering and business stakeholders through iterative feedback
-
-Backend Developer — ROID
-
-March 2024–July 2024
-
-Developed authentication and backend workflow functionality using Swift and Firebase
-
-Built API functionality supporting scheduling, uploading, and application-data workflows
-
-Collaborated through Git, testing, debugging, and code-review feedback
-
-Technical Skills
-
-Languages: Java, Python, C++, C, TypeScript, JavaScript, SQL, Swift
-Backend: Node.js, Express, Flask, REST APIs
-Frontend: React, HTML, CSS
-Databases: PostgreSQL, MongoDB, Firebase
-AI/ML: TensorFlow, OpenCV, ResNet, KNN
-Tools: Docker, AWS, Linux, Git, GitHub, Postman
-
-Currently Learning
-
-CUDA and GPU programming
-
-Distributed systems
-
-System design
-
-Cloud architecture
-
-Software performance profiling
-
-Education
-
-San José State University
-
-B.S. Computer Science — Expected May 2027
-GPA: 4.0
-
-Relevant coursework: Data Structures and Algorithms, Database Systems, Object-Oriented Programming, Operating Systems, Computer Architecture, Information Security, and Software Engineering.
-
-De Anza College
-
-A.S.-T. Mathematics — GPA: 3.97
-Co-Founder, Data Science Club • Secretary, Chess Club • Vice President, Personal Finance Club
-
-Connect
-
-LinkedIn: linkedin.com/in/suparnp
-
-Portfolio: suparnp.com
-
-Email: suparnposina@gmail.com
+⭐ Always interested in opportunities where I can learn from experienced engineers and contribute to impactful software.
