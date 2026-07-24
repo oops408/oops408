@@ -1,294 +1,120 @@
-# Hi, I'm Suparn Posina 👋
+Hi, I'm Suparn Posina 👋
 
-I'm a Computer Science student at **San José State University** interested in backend engineering, artificial intelligence, computer vision, and building software that solves real-world problems.
+Computer Science student at San José State University with a 4.0 GPA, focused on software engineering, backend systems, AI/ML, and computer vision.
 
-🎯 Currently seeking **Software Engineering Internship opportunities for Summer 2027.**
+🎯 Seeking Summer 2027 software engineering internship opportunities.
 
----
+💼 Sales Engineering Intern at Infoglen
 
-# 👨‍💻 About Me
+🎓 B.S. Computer Science, expected May 2027
 
-🎓 **B.S. Computer Science @ San José State University**  
-📈 **GPA: 4.0**  
-📍 **San Jose, California**  
-💼 **Sales Engineering Intern @ Infoglen**
+📍 San Jose, California
 
-I enjoy building software systems, exploring new technologies, and understanding how applications work from the backend to the infrastructure level.
+🌐 Portfolio: suparnp.com
 
-My current focus is improving my skills in:
+💼 LinkedIn: linkedin.com/in/suparnp
 
-- Backend development
-- System design
-- Machine learning applications
-- Distributed systems
-- GPU programming
-- Cloud infrastructure
+Featured Projects
 
-I am interested in how large-scale software systems are designed, optimized, and deployed.
+Investment Property Analyzer
 
----
+React • Node.js • PostgreSQL • REST APIs
 
-# 💡 Technical Interests
+Full-stack application for evaluating investment properties using financial metrics, database-backed comparisons, and automated recommendations.
 
-- Backend Engineering
-- Artificial Intelligence
-- Computer Vision
-- Distributed Systems
-- Database Systems
-- Cloud Computing
-- High Performance Computing
-- GPU Programming
+Engineering focus: Backend API design, database modeling, property-ranking logic, and maintainable full-stack architecture.
 
----
+Repository is currently private. Technical overview and demonstration are available upon request.
 
-# 🌱 Currently Learning
+AI Video Scheduler
 
-- CUDA Programming
-- System Design Fundamentals
-- Large Language Model Applications
-- Distributed Databases
-- Cloud Architecture
-- Software Performance Optimization
+TypeScript • Node.js • Express • PostgreSQL • Docker
 
----
+Backend-focused application for managing video metadata, scheduling workflows, uploads, user data, and external API integrations.
 
-# 🛠️ Tech Stack
+Engineering focus: Modular REST services, authentication workflows, persistent data, failure handling, and containerized development.
 
-### 💻 Languages
+Repository is currently private. Technical overview and demonstration are available upon request.
 
-```
-Python • C++ • Java • C • SQL • JavaScript • TypeScript • Swift
-```
+Computer Vision Location Prediction
 
-### ⚙️ Backend
+Python • TensorFlow • OpenCV • ResNet • KNN
 
-```
-Node.js • Express.js • Flask • REST APIs
-```
+Machine-learning project exploring geographic location prediction from image and video inputs.
 
-### 🎨 Frontend
+Engineering focus: Image preprocessing, deep-feature extraction, model evaluation, prediction pipelines, and geographic visualization.
 
-```
-React • HTML • CSS
-```
+Repository is currently private. Technical overview and demonstration are available upon request.
 
-### 🗄️ Databases
+Grocery Store Management System
 
-```
-PostgreSQL • MongoDB • Firebase
-```
+Java • Maven • JUnit • Object-Oriented Design
 
-### ☁️ Cloud & Tools
+Team-built Java application with authentication, customer and employee workflows, inventory management, checkout, exception handling, and automated testing.
 
-```
-AWS • Docker • Linux • Git • GitHub • Postman • VS Code
-```
+View repository
 
-### 🤖 AI / Machine Learning
+Experience
 
-```
-TensorFlow • OpenCV • ResNet • KNN
-```
+Sales Engineering Intern — Infoglen
 
----
+August 2025–Present
 
-# 🏗️ Engineering Practices
+Prototyping AI-assisted churn-risk and sentiment-analysis workflows
 
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- REST API Design
-- Database Design
-- Software Testing
-- Version Control Workflows
-- Linux Development
-- Agile Development
-- Code Reviews
-- System Design Principles
+Connecting technical ideas with customer-lifecycle and business requirements
 
----
+Collaborating with engineering and business stakeholders through iterative feedback
 
-# 🔨 Currently Building
+Backend Developer — ROID
 
-## 🏡 Investment Property Analyzer
+March 2024–July 2024
 
-**React • Node.js • PostgreSQL**
+Developed authentication and backend workflow functionality using Swift and Firebase
 
-A full-stack application that helps users analyze investment properties using financial calculations, database-driven insights, and automated recommendations.
+Built API functionality supporting scheduling, uploading, and application-data workflows
 
-Currently working on:
+Collaborated through Git, testing, debugging, and code-review feedback
 
-- Designing backend API architecture
-- Building database models
-- Creating property ranking algorithms
-- Improving application performance
+Technical Skills
 
+Languages: Java, Python, C++, C, TypeScript, JavaScript, SQL, Swift
+Backend: Node.js, Express, Flask, REST APIs
+Frontend: React, HTML, CSS
+Databases: PostgreSQL, MongoDB, Firebase
+AI/ML: TensorFlow, OpenCV, ResNet, KNN
+Tools: Docker, AWS, Linux, Git, GitHub, Postman
 
----
+Currently Learning
 
-## 🎥 AI Video Scheduler
+CUDA and GPU programming
 
-**TypeScript • Express.js • PostgreSQL • Docker**
+Distributed systems
 
-A backend-focused application that automates video scheduling workflows and manages application data through scalable services.
+System design
 
-Currently working on:
+Cloud architecture
 
-- Building REST API endpoints
-- Designing authentication workflows
-- Managing persistent data
-- Containerizing services with Docker
+Software performance profiling
 
+Education
 
----
+San José State University
 
-## 📍 Computer Vision Location Prediction
+B.S. Computer Science — Expected May 2027
+GPA: 4.0
 
-**Python • TensorFlow • OpenCV**
+Relevant coursework: Data Structures and Algorithms, Database Systems, Object-Oriented Programming, Operating Systems, Computer Architecture, Information Security, and Software Engineering.
 
-A machine learning project exploring how computer vision models can predict geographic locations from images.
+De Anza College
 
-Currently working on:
+A.S.-T. Mathematics — GPA: 3.97
+Co-Founder, Data Science Club • Secretary, Chess Club • Vice President, Personal Finance Club
 
-- Image preprocessing pipelines
-- Feature extraction using deep learning models
-- Model evaluation
-- Geographic visualization
+Connect
 
----
+LinkedIn: linkedin.com/in/suparnp
 
-# 🚀 Featured Projects
+Portfolio: suparnp.com
 
-## 🏡 Investment Property Analyzer
-
-**React • Node.js • PostgreSQL**
-
-A full-stack investment analysis platform focused on helping users evaluate properties through financial metrics and data-driven insights.
-
-### Highlights:
-
-- Designed a PostgreSQL database structure
-- Developed backend REST APIs
-- Created property evaluation logic
-- Built React-based user interfaces
-- Improved application workflows
-
-🔗 Repository: YOUR_REPO_LINK
-
-
----
-
-## 🎥 AI Video Scheduler
-
-**TypeScript • Express.js • PostgreSQL • Docker**
-
-A backend application designed to automate video publishing workflows.
-
-### Highlights:
-
-- Built modular API services
-- Created database models
-- Implemented authentication workflows
-- Used Docker for development environments
-- Applied backend engineering practices
-
-🔗 Repository: YOUR_REPO_LINK
-
-
----
-
-## 📍 Computer Vision Location Prediction
-
-**Python • TensorFlow • OpenCV**
-
-A machine learning project focused on predicting image locations using computer vision techniques.
-
-### Highlights:
-
-- Processed image datasets using OpenCV
-- Experimented with ResNet feature extraction
-- Developed prediction pipelines
-- Evaluated model performance
-- Created geographic visualizations
-
-🔗 Repository: YOUR_REPO_LINK
-
----
-
-# 💼 Experience
-
-## 💼 Sales Engineering Intern
-
-**Infoglen | Aug 2025 – Present**
-
-- Develop AI-assisted solutions and automation workflows
-- Build prototypes for customer data analysis
-- Collaborate with engineering and business teams
-- Research practical applications of emerging technologies
-
-
----
-
-## 💻 Backend Developer
-
-**ROID | Mar 2024 – Jul 2024**
-
-- Developed backend services and APIs
-- Integrated Firebase functionality
-- Used Git workflows for collaboration
-- Debugged and improved application features
-- Worked with agile development practices
-
----
-
-# 🎓 Education
-
-## San José State University
-
-**Bachelor of Science in Computer Science**
-
-Expected Graduation: **May 2027**
-
-GPA: **4.0**
-
-Relevant Coursework:
-
-- Data Structures & Algorithms
-- Database Systems
-- Object-Oriented Programming
-- Operating Systems
-- Computer Architecture
-- Information Security
-- Software Engineering
-
----
-
-# 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oops408&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oops408&layout=compact&theme=transparent)
-
----
-
-# 🎯 Current Focus
-
-🚀 Building stronger backend engineering skills  
-⚡ Learning CUDA and GPU programming  
-🏗️ Designing better software architectures  
-🤖 Exploring AI engineering workflows  
-☁️ Improving cloud and infrastructure skills  
-📚 Preparing for Summer 2027 SWE internships  
-
----
-
-# 📫 Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/suparnp
-
-💻 GitHub: https://github.com/oops408
-
-📧 Email: suparnposina@gmail.com
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my projects and connect.
+Email: suparnposina@gmail.com
