@@ -82,7 +82,7 @@ Automates the YouTube publishing workflow: uses AI to prepare uploads and schedu
 
 ## 📊 GitHub Stats
 
-![Suparn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oops408&show_icons=true&theme=transparent)
+<p align="center"> <img src="profile/stats.svg" alt="Suparn's GitHub stats" height="180" /> <img src="profile/top-langs.svg" alt="Top languages" height="180" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=oops408&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="profile/snake.svg" /> <img alt="Contribution snake eating my commit graph" src="profile/snake.svg" /> </picture> </p>
 
 ---
 
