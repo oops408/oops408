@@ -1,94 +1,5 @@
-
-Windows 11, Connected
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Profile cards · YML
 name: Update profile cards
- 
+
 on:
   schedule:
     - cron: "23 7 * * *" # once a day, around midnight Pacific
@@ -96,16 +7,16 @@ on:
   push:
     branches: [main]
     paths: [".github/workflows/profile-cards.yml"]
- 
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
- 
+
     steps:
       - uses: actions/checkout@v6
- 
+
       # Stats card: total commits (all years), PRs merged, reviews, rank
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
@@ -116,7 +27,7 @@ jobs:
           # Add a PAT secret named PAT (scopes: repo, read:user) to include private repos.
           # Without it, this falls back to public-only stats.
           token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
- 
+
       # Top languages card
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -125,7 +36,7 @@ jobs:
           options: username=oops408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
- 
+
       # Contribution snake (light + dark versions)
       - name: Generate contribution snake
         uses: Platane/snk@v3
@@ -134,7 +45,7 @@ jobs:
           outputs: |
             profile/snake.svg
             profile/snake-dark.svg?palette=github-dark
- 
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
@@ -142,5 +53,3 @@ jobs:
           git add profile/*.svg
           git commit -m "Update profile cards" || exit 0
           git push
- 
-Claude finished the response
