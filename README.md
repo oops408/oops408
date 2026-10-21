@@ -58,17 +58,15 @@ Git • GitHub • Linux • Docker • VS Code • PostgreSQL • React • Nod
 
 ## 🚀 Featured Projects
 
-### 🔹 Project Name
-Short description explaining:
-- what you built
-- technologies used
-- engineering problem solved
+### 🏠 AI Investment Property Finder
 
-### 🔹 Project Name
-Short description explaining:
-- functionality
-- architecture
-- impact
+An AI-powered tool that surfaces and evaluates potential investment properties, so buyers can spend less time on spreadsheets and more time on the deals worth pursuing.
+
+### 🎬 AI YouTube Video Scheduler & Uploader
+
+Automates the YouTube publishing workflow: uses AI to prepare uploads and schedules videos so creators can queue content and walk away.
+
+https://tubetimer.net
 
 ---
 
@@ -85,8 +83,6 @@ Short description explaining:
 ## 📊 GitHub Stats
 
 ![Suparn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oops408&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oops408&layout=compact&theme=transparent)
 
 ---
 
