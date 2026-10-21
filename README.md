@@ -17,17 +17,11 @@ Interested in:
 
 🎓 B.S. Computer Science @ San José State University · Minor in Business · Expected Spring 2027
 
-📐 A.S.T. Mathematics @ De Anza College
-
-💼 Sales Engineering Intern @ **Infoglen**, prototyping AI tools for customer churn-risk prediction and sentiment analysis
-<!-- TODO: add dates, e.g. (Aug 2025 – Present) -->
-
-🍎 Former math & coding tutor at Mathnasium and Khan Academy
+🍎 2+ years as a math & coding tutor at Mathnasium and Khan Academy
 
 🔭 Currently building:
 - An AI investment property finder
 - An AI YouTube video scheduler & uploader
-- **ParkFast**, a parking startup (SJSU CS 185C)
 - My own Roblox game in Luau
 
 🌱 Continuously improving my skills in:
@@ -76,12 +70,6 @@ An AI-powered tool that surfaces and evaluates potential investment properties, 
 ### 🎬 AI YouTube Video Scheduler & Uploader
 Automates the YouTube publishing workflow: uses AI to prepare uploads and schedules videos so creators can queue content and walk away.
 <!-- TODO: add tech stack + repo link -->
-
-### 🅿️ ParkFast
-A parking startup built with a four-person team for SJSU's CS 185C, where I serve as Chief Sales Officer. We're developing a **probability map of street parking** to predict where open spots are likely to be.
-
-### 📈 AI Customer Insights @ Infoglen
-Prototyped AI tools for **churn-risk prediction** and **sentiment analysis**, turning customer data into early warnings the sales team could act on.
 
 ### 🧩 [CPcode](https://github.com/oops408/CPcode)
 My competitive programming solutions in C++, covering data structures and algorithms practice.
