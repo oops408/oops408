@@ -66,7 +66,7 @@ An AI-powered tool that surfaces and evaluates potential investment properties, 
 
 Automates the YouTube publishing workflow: uses AI to prepare uploads and schedules videos so creators can queue content and walk away.
 
-https://tubetimer.net
+🔗 https://tubetimer.com
 
 ---
 
