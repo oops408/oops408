@@ -1,0 +1,146 @@
+
+Windows 11, Connected
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profile cards · YML
+name: Update profile cards
+ 
+on:
+  schedule:
+    - cron: "23 7 * * *" # once a day, around midnight Pacific
+  workflow_dispatch: # lets you run it manually from the Actions tab
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-cards.yml"]
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+ 
+    steps:
+      - uses: actions/checkout@v6
+ 
+      # Stats card: total commits (all years), PRs merged, reviews, rank
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=oops408&show_icons=true&include_all_commits=true&rank_icon=github&show=prs_merged,reviews&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          # Add a PAT secret named PAT (scopes: repo, read:user) to include private repos.
+          # Without it, this falls back to public-only stats.
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+ 
+      # Top languages card
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=oops408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+ 
+      # Contribution snake (light + dark versions)
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: oops408
+          outputs: |
+            profile/snake.svg
+            profile/snake-dark.svg?palette=github-dark
+ 
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update profile cards" || exit 0
+          git push
+ 
+Claude finished the response
